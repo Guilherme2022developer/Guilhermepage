@@ -1,10 +1,20 @@
+<h1 align="center">Site primeira versão</h1>
 
-# Guilhermepage
+Site de projetos usando HTML CSS,  JavaScript, jquery, bootstrap, totalmente responsivo.
 
 
-Site de projetos primeira versão usando HTML CSS,  JavaScript, jquery, bootstrap, totalmente responsiv 
+![imagem site](https://user-images.githubusercontent.com/98243722/158079569-7239cd79-945d-42eb-a66d-ee697cb7edd4.png)
 
-![gui](https://user-images.githubusercontent.com/98243722/158078859-00679980-1ea5-4379-81fc-87d369110c24.png)
 
-Página web para projs meus os códigos estão aqui  para uso no git
-Vou estar sempre atualinzando o código
+Página web para projetos meus.
+Vou estar sempre atualinzando o código com novas Implementações.
+Gostaria de ideias caso alguém queira.
+
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
+
+Neste projeto aprendi bastante a usar o bootstrap muito agil de trabalhar...
+    
+     
+         Em breve terei mais novidades...
