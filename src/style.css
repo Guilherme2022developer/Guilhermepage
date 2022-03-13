@@ -1,0 +1,51 @@
+.imagem-carrossel{
+    object-fit: cover;
+    object-position: 80% 0%;
+    height: 500px;
+}
+.imagem-gui {
+    object-fit: cover;
+    object-position: 80% 20%;
+    height: 500px;
+}
+.imagem-carrossel-2 {
+    object-fit: cover;
+    height: 500px;
+}
+.fonte {
+    font-family: 'Playfair Display', serif;
+}
+
+.gui{
+   text-align:center;
+}
+
+
+footer {
+    text-align: center;
+    padding: 40px 0;
+}
+.espaco-esquerda {
+    padding-left: 20px;
+}
+.cor-fundo{
+    background-color:black;
+    color:white;
+}
+.cor-texto{
+    color:white;
+}
+
+.cor-bloco{
+    background-color:aliceblue;
+
+}
+.tamanho-texto{
+    font-size: 1.5em;
+}
+
+.forms{
+    color: black
+}
+
+
