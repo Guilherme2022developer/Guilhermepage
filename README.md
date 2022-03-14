@@ -1,4 +1,4 @@
-<h1 align="center">Site primeira versão</h1>
+<h1 align="center">Web site</h1>
 
 <Site de projetos usando HTML CSS,  JavaScript, jquery, bootstrap, totalmente responsivo.
 
@@ -25,4 +25,4 @@ Neste projeto aprendi bastante a usar o bootstrap muito agil de trabalhar...
 </p>
 
      
-         Em breve terei mais novidades...
+         Em breve novidades...
